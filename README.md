@@ -16,6 +16,7 @@ I'm a software engineer who is passionate about developing new applications that
    - 🐶 Obsessed with my doggo Marley
    - 🎮 Video games keep me young
    - 🏀 Ball is life
+   - ✈ Travel is necessary
 
 ## My Languages and Tools
 [![My Skills](https://skillicons.dev/icons?i=git,github,js,nodejs,rails,react,redux,express,postgres,mongodb,html,css,ruby,aws,heroku)](https://skillicons.dev)
