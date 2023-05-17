@@ -1,7 +1,7 @@
 <div align='center'>
     <h1>Hi, I'm Eduardo 👋👨‍💻</h1>  
 </div>
-
+<img  src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/79731568097599.5b50bca477735.jpg" height=175px width=1050px />
 
 I'm a software engineer who is passionate about developing new applications that are easy to use, beatiful to look at and fun to work with. I enjoy expoloring new technologies to further elavate users while building a community.
 
