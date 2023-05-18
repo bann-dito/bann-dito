@@ -6,6 +6,8 @@
 
 I'm a software engineer who is passionate about developing new applications that are easy to use, beautiful to look at and fun to work with. I enjoy exploring new technologies to further elevate users while building a community. I enjoy working with Ruby, Rails, JavaScript, React, Redux and any new APIs I can get my hands on. Check out my projects and connect with me below.
 
+<br/>
+
 ## Highlights
 
 <img align=right alt="GIF" src="https://i.pinimg.com/originals/a5/35/60/a53560c8088900e266880f779dacced7.gif" width="400" height="320" />
