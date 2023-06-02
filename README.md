@@ -15,8 +15,7 @@ I'm a software engineer who is passionate about developing new applications that
 - 📝I’m currently finishing a group project, [Scene][scene]
 - 🌱 I’m looking forward to learning TypeScript and Python
 - 😄 I'm proud of my Hipcamp clone, [Venture Camp][venturecamp]
-- 💬 Looking to network? Connect with me on [LinkedIn][linkedin]
-- 📫 You can reach my inbox at ed.bacsierra@gmail.com
+- 📫 Looking to connect? Reach out on [LinkedIn][linkedin]
 - ⚡ Fun facts:
    - 👟 Sneakers are a passion
    - 🐶 Obsessed with my doggo Marley
