@@ -24,6 +24,7 @@
    - 🏀 Ball is life
    - ✈ Travel is necessary
 
+<br>
 
 ## My Languages and Tools
 [![My Skills](https://skillicons.dev/icons?i=git,github,js,nodejs,rails,react,redux,express,postgres,mongodb,html,css,ruby,aws,heroku)](https://skillicons.dev)
