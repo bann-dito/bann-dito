@@ -1,10 +1,10 @@
 <div align='center'>
    <h1>
-       <img align="left" width="150" height="150" src="./assets/me_as_gif.gif"></img>
+       <img align="left" width="180" height="180" src="./assets/me_as_gif.gif"></img>
        Hi, I'm Eduardo 👋
    </h1>  
 </div>
-<div>
+<div white-space : pre-wrap !important;>
    I'm a software engineer who is passionate about developing new applications that are easy to use, beautiful to look at and fun to work with. I enjoy exploring new technologies to further elevate users while building a community. I enjoy working with Ruby, Rails, JavaScript, React, Redux and any new APIs I can get my hands on. Check out my projects and connect with me below.
 </div>
 
