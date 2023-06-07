@@ -14,9 +14,10 @@
 
 <img align=right alt="GIF" src="https://i.pinimg.com/originals/a5/35/60/a53560c8088900e266880f779dacced7.gif" width="400" height="320" />
 
-- 📝I’m currently finishing a group project, [Scene][scene]
+- 🚀 I'm looking forward to my next journey at a great company!
 - 🌱 I’m looking forward to learning TypeScript and Python
 - 😄 I'm proud of my Hipcamp clone, [Venture Camp][venturecamp]
+- 🎥 Love using my movie app, [Scene][scene]
 - 📫 Looking to connect? Reach out on [LinkedIn][linkedin]
 - ⚡ Fun facts:
    - 👟 Sneakers are a passion
