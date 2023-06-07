@@ -6,8 +6,9 @@
        Hi, I'm Eduardo 👋
    </h1>  
 </div>
-
-I'm a software engineer who is passionate about developing new applications that are easy to use, beautiful to look at and fun to work with. I enjoy exploring new technologies to further elevate users while building a community. I enjoy working with Ruby, Rails, JavaScript, React, Redux and any new APIs I can get my hands on. Check out my projects and connect with me below.
+<div>
+   I'm a software engineer who is passionate about developing new applications that are easy to use, beautiful to look at and fun to work with. I enjoy exploring new technologies to further elevate users while building a community. I enjoy working with Ruby, Rails, JavaScript, React, Redux and any new APIs I can get my hands on. Check out my projects and connect with me below.
+</div>
 
 
 ## Highlights
