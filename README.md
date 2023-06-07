@@ -1,6 +1,6 @@
 <div align='center'>
    <h1>
-       <img align="left" width="170" height="170" src="./assets/me_as_gif.gif"></img>
+       <img align="left" width="200" height="200" src="./assets/me_as_gif.gif"></img>
        Hi, I'm Eduardo 👋
    </h1>  
 </div>
