@@ -14,7 +14,7 @@
 
 <img align=right alt="GIF" src="https://i.pinimg.com/originals/a5/35/60/a53560c8088900e266880f779dacced7.gif" width="400" height="320" />
 
-- 🚀 I'm looking forward to my next journey at a great company!
+- 🚀 Exploring new opportunities at great companies!  
 - 🌱 I’m looking forward to learning TypeScript and Python
 - 😄 I'm proud of my Hipcamp clone, [Venture Camp][venturecamp]
 - 🎥 Love using my movie app, [Scene][scene]
