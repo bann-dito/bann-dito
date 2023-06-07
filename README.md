@@ -1,5 +1,3 @@
-<img  src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/79731568097599.5b50bca477735.jpg" height=175px width=1050px />
-
 <div align='center'>
    <h1>
        <img align="left" width="150" height="150" src="./assets/me_as_gif.gif"></img>
